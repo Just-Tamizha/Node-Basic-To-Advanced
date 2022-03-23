@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------
+
+Step-1 : create modules file (create some exports function with varible)
+
+Step-2 : Import modules file through "require" libiry
+
+Step-3 : call modules functions through console.log
+
+--------------------------------------------------------------------------
+
+Description : require libiry used in this repo !
+
+--------------------------------------------------------------------------
+
+Name : Tamizha
+Channel : ProTamizhaYT
+Channel Link : https://www.youtube.com/c/ProTamizhaYT
+Email : businessenquiry.tamizha@gmail.com
+
+--------------------------------------------------------------------------
+
+YouTube reference video
+
+    https://youtu.be/cRqIGvlgO88
+
+--------------------------------------------------------------------------
