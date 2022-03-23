@@ -1,0 +1,26 @@
+--------------------------------------------------------------------------
+
+Step-1 : Import 'http' libiry using 'require' libiry
+
+Step-2 : create server
+
+Step-3 : Run terminal using cmd "node node"
+
+--------------------------------------------------------------------------
+
+Description : require,http libiry used in this repo !
+
+--------------------------------------------------------------------------
+
+Name : Tamizha
+Channel : ProTamizhaYT
+Channel Link : https://www.youtube.com/c/ProTamizhaYT
+Email : businessenquiry.tamizha@gmail.com
+
+--------------------------------------------------------------------------
+
+YouTube reference video
+
+    https://youtu.be/cRqIGvlgO88
+
+--------------------------------------------------------------------------
